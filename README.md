@@ -1,5 +1,6 @@
 # Contact Me
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> kangdh97@gmail.com
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+kangdh97@gmail.com
 
 
 # Tech Stacks
