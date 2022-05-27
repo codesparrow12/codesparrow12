@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=20&section=header&text=Code%20Sparrow&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&text=Code%20Sparrow&fontSize=20)
 
 
 
