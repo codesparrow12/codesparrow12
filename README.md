@@ -1,5 +1,5 @@
 # About Me
-
+velog.io: https://velog.io/@codesparrow12
 
 # Tech Stacks
 
