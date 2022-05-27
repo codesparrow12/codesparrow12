@@ -3,4 +3,4 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 
 ## Tools
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=vscode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
